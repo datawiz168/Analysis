@@ -51,6 +51,8 @@ mse = mean_squared_error(y_test, y_pred)
 print("\n机器学习模型的均方误差:")
 print(mse)
 '''
+使用 pandas 和 numpy 进行基本的数据清洗和统计分析。
+使用 sklearn 建立一个简单的机器学习模型预测汽车的销售价格。
 输出结果
 基本统计信息:
           Car_Age       Mileage    Sale_Price
